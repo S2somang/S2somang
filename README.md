@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Somang's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2somang&show_icons=true&theme=buefy)
+![Somang's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2somang&show_icons=true&theme=buefy&count_private=true)
