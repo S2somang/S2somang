@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Somang's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2somang&show_icons=true&theme=buefy&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S2somang)](https://github.com/S2somang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S2somang)](https://github.com/S2somang/github-readme-stats&layout=compact)
